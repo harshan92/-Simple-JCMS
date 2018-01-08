@@ -1,0 +1,8 @@
+Intro to Java
+Intro to network
+Principles of computing
+Cloud computing
+Software design
+Big data
+Machine learning
+MSSQL
